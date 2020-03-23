@@ -35,7 +35,7 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(277, 211);
+            this.button1.Location = new System.Drawing.Point(129, 199);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(118, 82);
             this.button1.TabIndex = 0;
@@ -47,15 +47,16 @@
             // 
             this.txtMesagge.AutoSize = true;
             this.txtMesagge.Font = new System.Drawing.Font("Microsoft Sans Serif", 36F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtMesagge.Location = new System.Drawing.Point(147, 87);
+            this.txtMesagge.ForeColor = System.Drawing.SystemColors.ButtonFace;
+            this.txtMesagge.Location = new System.Drawing.Point(247, 84);
             this.txtMesagge.Name = "txtMesagge";
-            this.txtMesagge.Size = new System.Drawing.Size(539, 55);
+            this.txtMesagge.Size = new System.Drawing.Size(297, 55);
             this.txtMesagge.TabIndex = 1;
-            this.txtMesagge.Text = "Dale click al boton Ojete";
+            this.txtMesagge.Text = ".....................";
             // 
             // button4
             // 
-            this.button4.Location = new System.Drawing.Point(457, 199);
+            this.button4.Location = new System.Drawing.Point(430, 199);
             this.button4.Name = "button4";
             this.button4.Size = new System.Drawing.Size(143, 94);
             this.button4.TabIndex = 4;
@@ -67,7 +68,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.Orange;
+            this.BackColor = System.Drawing.Color.Blue;
             this.ClientSize = new System.Drawing.Size(800, 450);
             this.Controls.Add(this.button4);
             this.Controls.Add(this.txtMesagge);
