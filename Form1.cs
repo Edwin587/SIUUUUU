@@ -21,5 +21,10 @@ namespace SIUUUUU
         {
             this.txtMesagge.Text = "Enviando Misiles a la Luna...";
         }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            this.txtMesagge.Text = "puto el que lo lea";
+        }
     }
 }
