@@ -35,7 +35,7 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(240, 211);
+            this.button1.Location = new System.Drawing.Point(277, 211);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(118, 82);
             this.button1.TabIndex = 0;
@@ -47,7 +47,7 @@
             // 
             this.txtMesagge.AutoSize = true;
             this.txtMesagge.Font = new System.Drawing.Font("Microsoft Sans Serif", 36F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtMesagge.Location = new System.Drawing.Point(221, 55);
+            this.txtMesagge.Location = new System.Drawing.Point(147, 87);
             this.txtMesagge.Name = "txtMesagge";
             this.txtMesagge.Size = new System.Drawing.Size(539, 55);
             this.txtMesagge.TabIndex = 1;
